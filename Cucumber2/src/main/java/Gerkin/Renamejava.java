@@ -1,6 +1,6 @@
 package Gerkin;
 
-public class java {
+public class Renamejava {
 
     public void checkout() {
 
